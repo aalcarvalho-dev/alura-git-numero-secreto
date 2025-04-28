@@ -1,0 +1,6 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="150" height="30">
+  <rect width="100" height="30" fill="#4CAF50"/>
+  <rect x="100" width="50" height="30" fill="#2E7D32"/>
+  <text x="50" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">Versão</text>
+  <text x="125" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">v2.5.0</text>
+</svg>
